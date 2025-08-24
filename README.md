@@ -98,7 +98,7 @@ username2:password2@host2:port2
 
 Run the script:
 ```bash
-python your_script_name.py
+python proxy_browser.py
 ```
 
 ✅ Logs include batch numbers, IPs used, and errors encountered.
